@@ -2,4 +2,5 @@
 Mobile app developed for 'the Harbingers', a group of bikers.
 
 # Under Development...
-https://github.com/mustafaxt2/harbingers-app/assets/112318875/e87a13fd-fb72-4a72-a14f-51d429b06e49
+https://github.com/mustafaxt2/harbingers-app/assets/112318875/ed4145ea-e070-413e-a00f-a695206799a4
+
